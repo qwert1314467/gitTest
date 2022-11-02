@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("hot-fix hello");
         System.out.println("你干嘛哎呦~");
         System.out.println("fuck you mother");
+        System.out.println("垃圾代码");
+        
     }
 }
